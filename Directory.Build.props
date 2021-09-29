@@ -14,11 +14,11 @@
     <Copyright>Copyright © Project Author. All rights Reserved</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/Username/Project</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/sethficke/Ficke.DataAnnotations</PackageProjectUrl>
     <PackageIcon>Icon.png</PackageIcon>
-    <RepositoryUrl>https://github.com/Username/Project.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sethficke/Ficke.DataAnnotations.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>https://github.com/Username/Project/releases</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/sethficke/Ficke.DataAnnotations/releases</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup Label="Package References">
